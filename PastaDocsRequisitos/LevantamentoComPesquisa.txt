@@ -1,0 +1,37 @@
+principais tecninicas de levantamento de dados:
+-pesquisa de referencias
+-Brainstorm e mapa mental
+-Entrevista individual
+-Reunião coletvia,Workshop de trabalho e JAD
+-Observação de campo
+-Questionário
+
+
+1- Busca por informações que estão publicadas.Estudar o assunto que é alvo no projeto.
+Buscar por softwares semelhantes ao seu projeto/produto e obter ideias com ele.
+
+Pesquisa(Estacionamento digital):
+Operações:
+1-Flexibilidade no modelo de operação
+2-Flexibilidade nos tipos de usuários
+3-Controle do pátio
+4-Controle financeiro
+5-Controle de mensalistas
+6-Controle de convenios
+7-Flexibilidad ede tabela de preço
+8-Consolidação
+9-Serviço de lavação
+10-Valet
+11-Acompanhamento via Excel
+12-Saída com leitor de código de barras
+
+Produto(EasyPark):
+Operações:
+1-Entradas e Saída:Voce tem controle completo da entrada e saída de veículos, podendo escolher entre diversos perfis de cliente:cliente desconhecido, cliente já cadastrado, mensalista e convenios.
+2-Aplicativo:O sistema mostra a quantidade de vgadae livres que seu estacionamento possui para motoristas da região.Informa também o preço e horário de funcionamento.
+3-Preços e Horários:Controle de preços por tipo de veículo, formas de pagamentos aceitas e horários de cada dia da semana.
+4-Caixa:Abertura e Fechamento de Caixa; Inclusão de fundo de caixa; Relatório completo de entradas/saídas; Registro dos nomes dos usuários que fizeram todas as movimentações de entrada e saída; Contas a pagar/receber e muito mais
+5-Cupons De desconto:(Vouchers):Código gerado automaticamente;Permite ativar/desativar  o cupom por um período específico (campanhas pontuais por exemplo); Desconto em reais ou desconto em porcentagem ou desconto em horas/minuto.
+6-Avaris:Cadastro de avarias pré-existentes(ótimo para provar para o cliente que o carro já estava com alguma avaria na entrada do estacionamento);
+
+
