@@ -35,3 +35,18 @@ Operações:
 6-Avaris:Cadastro de avarias pré-existentes(ótimo para provar para o cliente que o carro já estava com alguma avaria na entrada do estacionamento);
 
 
+
+Checkpoint
+mapa mental
+mapa de processos
+
+Entrevista Individual
+Quem intrevistar ? Lider
+
+Observação da rotina - para conhecer a realidade de quem eu estou fazendo o sistema.
+-ir com checklist na mão
+-Não desfocar do propósito do que foi para fazer na observação da empresa.
+Para fazer as anotações
+-BPMN(BUSSINESS PROCESS MANAGER)
+-Bizagi
+
